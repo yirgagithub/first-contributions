@@ -108,6 +108,7 @@ Daniel Jung
 - [George Meier](https://github.com/gtmeier)
  [Florian Le Gars](https://github.com/florian-lg)
 - [Mike Thramann](https://github.com/mthramann)
+- [Yirga Hagos](https://github.com/yirgagithub)
 - [Giovanni Lituma](https://github.com/giovannixdev)
 - [Jeffrey MCIntyre](https://github.com/flatman123)
 - [Qi Kang Chen](https://github.com/gnakiq)
